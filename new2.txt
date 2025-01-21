@@ -1,2 +1,2 @@
 this is textfile created in dem-branch-1
-this is for merge-conflict for main branch
+this is for merge-conflict for main branch description
