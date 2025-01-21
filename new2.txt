@@ -1,1 +1,2 @@
 this is textfile created in dem-branch-1
+this is for merge-conflict demo in branch 3
